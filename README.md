@@ -1,2 +1,2 @@
 # ramtamanampudi.github.io
-My Website
+this is a website that has information about me
