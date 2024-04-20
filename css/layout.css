@@ -30,10 +30,10 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
-   min-height: 500px;
+   height: 400px;
+   min-height: 400px;
    width: 100%;
-   background: #161415 url(../images/header-backgroundtmp.jpg) no-repeat top center;
+   background: #161415 url(../images/bg\ images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
   -webkit-background-size: cover !important;
    text-align: center;
@@ -208,8 +208,8 @@ ul#nav li.current a { color: #000000; }
 #about .profile-pic {
    position: relative;
    width: 200px;
-   height:200px;
-   border-radius: 10%;
+   height:250px;
+   border-radius: 3%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -697,6 +697,9 @@ call-to-action .button {
 }
 #contact .header-col { padding-top: 6px; }
 
+#contact .resume-d{
+   text-align: center;
+}
 
 /* contact form */
 #contact form { margin-bottom: 30px; }
